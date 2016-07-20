@@ -1,0 +1,62 @@
+body {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: black;
+	background-color: #e6e6e6;
+	scrollbar-face-color: #404040;
+	scrollbar-shadow-color: #202020;
+	scrollbar-highlight-color: #808080;
+	scrollbar-3dlight-color: #808080;
+	scrollbar-darkshadow-color: #202020;
+	scrollbar-track-color: #C0C0C0;
+	scrollbar-arrow-color: #880203;
+}
+table.thinline {
+   border-collapse:collapse;
+   border:1px solid #000000;
+   align:center;
+   margin-left:auto;
+   margin-right:auto;
+   background-color: #B5b5b5;
+}
+
+
+td {
+	font-size: small;
+}
+a, a:visited {
+	font-family: Tahoma;
+	font-size: small;
+	font-weight: normal;
+	color: #202020;
+	text-decoration: none
+}
+
+input, textarea, select {
+	background: #CFCFCF;
+	font-family: Tahoma;
+	font-size: x-small;
+	color: #404040;
+	border-color: #404040;
+	border-width: 1;
+}
+
+.quote {
+	font-family: Tahoma; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+.messagequote {
+	width : 360px;
+	font-family: Tahoma; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+.post_me
+{
+    color: red;
+}
+.smaller
+{
+    font-size: 7pt;
+}

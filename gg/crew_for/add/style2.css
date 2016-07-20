@@ -1,0 +1,61 @@
+body {  
+font-family: Tahoma; 
+font-size: 10pt; 
+color: #D0DFDF; 
+background-color: #CCCCCC; 
+scrollbar-face-color: #404040; 
+scrollbar-shadow-color: #202020; 
+scrollbar-highlight-color: #808080; 
+scrollbar-3dlight-color: #808080; 
+scrollbar-darkshadow-color: #202020; 
+scrollbar-track-color: #CCCCCC; 
+scrollbar-arrow-color: #880203; 
+
+ }
+ 
+#foldheader{cursor ointer;cursor:hand; font-weight:bold ;}
+#foldinglist{list-style-image:url()}
+
+td {
+font-family: Tahoma; 
+font-size: 10pt; 
+color: #ffffff; }
+
+a, a:visited { 
+font-weight: normal;
+font-size: 9pt;
+color: #000000;
+text-decoration: none}
+
+a:hover
+{
+	background-color: #880201;
+	color: white;
+	width : 98%;
+	height : 8px;
+	
+border-style: solid;
+border-color: #000000;
+border-width: 1px; 
+
+}
+
+td.header
+{
+
+	width : 98%;
+	height : 8px;
+	background-repeat: repeat-x;
+	background-color: #880201;
+	font-weight : bold;
+	font-size : 10px;
+	color: white;	
+}
+input, textarea { 
+background: #000000 ;
+font-family: tahoma;
+font-size: 12px;
+color: #3F505F; 
+border-style: solid;
+border-color: #000000;
+border-width: 1px; }

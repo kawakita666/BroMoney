@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Bloodtown Mafia Mod CP Please Use Your Mod Username And Password"
+
+AuthUserFile "/home/blood/.htpasswds/mod/passwd"
+
+
+require valid-user

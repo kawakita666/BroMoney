@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Bloodtown Mafia Admin CP Please Use You Admin Username And Password"
+
+AuthUserFile "/home/blood/.htpasswds/admin/passwd"
+
+
+require valid-user

@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Support Helpers for Bloodtown Mafia Please Use Your Login Info Given By Admin For Access."
+
+AuthUserFile "/home/blood/.htpasswds/support/passwd"
+
+
+require valid-user
